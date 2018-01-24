@@ -4,7 +4,7 @@
   <style>
     body {
       text-align: center;
-      background: url ("https://imgur.com/a/kTeX9");
+      background: url("https://imgur.com/a/kTeX9");
       background-size: cover;
       background-position: center;
       color: white;

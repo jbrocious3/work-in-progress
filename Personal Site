@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>John Brocious</title>
+  <style>
+    body {
+      text-align: center;
+      background: url ("https://imgur.com/a/kTeX9");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: tahoma;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://imgur.com/a/GiqVU">
+  <p> Hey! I'm John, a Life Coach from New Jersey</p>
+  <input type="email" placeholder="Your email">
+  <input type="Submit">
+</body>
